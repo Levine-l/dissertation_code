@@ -1,5 +1,0 @@
-timestamp=2026-05-21T20:51:39
-method=held-out county split inferred from sample_uid
-counties=Suffolk,Norfolk,Cambridgeshire
-purpose=spatial leakage check for random split baseline
-reference_note=CROME treated as a reference crop-map product rather than direct ground truth

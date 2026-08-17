@@ -1,9 +1,0 @@
-timestamp=2026-05-21T14:36:13
-sample_csv=/content/data/processed/s2_2022_east_anglia_crome_8class_baseline.csv
-rows_used=5742
-predictor_count=56
-test_size=0.3
-random_seed=42
-model=RandomForestClassifier(n_estimators=500, class_weight=balanced_subsample, max_features=sqrt)
-validation_note=random train-test split used for first baseline; discuss spatial leakage risk
-reference_note=CROME treated as a reference crop-map product rather than direct ground truth
