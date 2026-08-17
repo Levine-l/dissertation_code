@@ -1,0 +1,3 @@
+model,test_rows,overall_agreement,balanced_accuracy,macro_f1,weighted_f1,reference_note
+S2-only,1723,0.7167730702263494,0.7163263620260113,0.7171560563942653,0.7174154888835461,CROME treated as a reference crop-map product rather than direct ground truth
+S1+S2,1723,0.7910621009866512,0.7911457645981781,0.7916214835192474,0.7915479377680644,CROME treated as a reference crop-map product rather than direct ground truth

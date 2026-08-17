@@ -1,0 +1,12 @@
+timestamp=2026-05-21T20:21:57
+collection=COPERNICUS/S1_GRD
+date_range=2021-10-20 to 2022-09-30
+filters=AOI, date, IW mode, VV present, VH present
+orbit_split=not used in first attempt
+s1_feature_count=16
+s1_features=winter_establishment_VV,winter_establishment_VH,winter_establishment_VV_minus_VH,winter_establishment_VV_div_VH,spring_growth_VV,spring_growth_VH,spring_growth_VV_minus_VH,spring_growth_VV_div_VH,summer_peak_VV,summer_peak_VH,summer_peak_VV_minus_VH,summer_peak_VV_div_VH,late_season_VV,late_season_VH,late_season_VV_minus_VH,late_season_VV_div_VH
+ratio_note=VV_div_VH calculated from linear-power VV and VH to avoid unstable division on dB values
+export_description=s1s2_2022_east_anglia_crome_8class_features
+drive_folder=dissertation_baseline_exports
+expected_local_csv=/content/drive/MyDrive/Dissertation/2_sentinel1_sentinel2_model/data/processed/s1s2_2022_east_anglia_crome_8class_features.csv
+reference_note=CROME treated as a reference crop-map product rather than direct ground truth

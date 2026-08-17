@@ -1,0 +1,2 @@
+model,status,k_neighbors,moran_i,p_sim
+S1+S2,computed,8,0.004555412896388699,0.326

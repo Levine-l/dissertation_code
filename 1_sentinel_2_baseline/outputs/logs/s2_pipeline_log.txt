@@ -1,0 +1,9 @@
+timestamp=2026-05-21T14:31:43
+sample_mode=baseline
+sample_path=/content/data/processed/crome_2022_east_anglia_8class_points_baseline.gpkg
+local_sample_count=8000
+export_description=s2_2022_east_anglia_crome_8class_baseline_baseline
+drive_folder=dissertation_baseline_exports
+task_id=EGYRYK7XAPGC47NPBNWRWEEB
+cloud_mask=SCL clear classes excluding no-data, saturated, shadow, cloud, cirrus and snow/ice
+reference_note=CROME is a reference crop-map product, not direct ground truth

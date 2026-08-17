@@ -1,0 +1,2 @@
+overall_agreement,balanced_accuracy,macro_f1,weighted_f1,validation_note
+0.7910621009866512,0.7911457645981781,0.7916214835192474,0.7915479377680644,Random split baseline; interpret with spatial leakage risk.

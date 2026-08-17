@@ -1,0 +1,3 @@
+timestamp=2026-06-15T20:43:33
+geometry join successful: 1723 matched test samples
+reference_note=CROME treated as a reference crop-map product rather than direct ground truth

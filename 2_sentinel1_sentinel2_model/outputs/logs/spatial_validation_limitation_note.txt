@@ -1,0 +1,1 @@
+S1+S2 feature table is not available yet. Spatial validation deferred until the combined feature table is exported and copied locally. Random-split leakage risk must be discussed.

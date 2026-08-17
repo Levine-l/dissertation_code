@@ -1,0 +1,7 @@
+model,held_out_county,train_rows,test_rows,overall_agreement,balanced_accuracy,macro_f1,reference_note
+S2-only matched rows,Suffolk,3995,1747,0.67830566685747,0.6765157352490019,0.6746890463046441,CROME treated as a reference crop-map product rather than direct ground truth
+S2-only matched rows,Norfolk,3074,2668,0.6585457271364318,0.6529733917896383,0.6515883262754767,CROME treated as a reference crop-map product rather than direct ground truth
+S2-only matched rows,Cambridgeshire,4415,1327,0.6578749058025621,0.6602933524595755,0.6594338833765185,CROME treated as a reference crop-map product rather than direct ground truth
+S1+S2,Suffolk,3995,1747,0.7475672581568403,0.7448606733049261,0.7475836553567566,CROME treated as a reference crop-map product rather than direct ground truth
+S1+S2,Norfolk,3074,2668,0.7496251874062968,0.7451686787361014,0.7449777633275657,CROME treated as a reference crop-map product rather than direct ground truth
+S1+S2,Cambridgeshire,4415,1327,0.7400150715900528,0.7413301060929629,0.7400200183286116,CROME treated as a reference crop-map product rather than direct ground truth

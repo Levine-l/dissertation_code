@@ -1,0 +1,13 @@
+path,exists
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/spatial_error_input_summary.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/matched_test_overall_metrics.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/matched_test_predictions_spatial_error.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/error_rate_by_class.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/error_rate_by_county.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/error_rate_by_county_and_class.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/top_s1s2_confusion_pairs.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/tables/s1s2_error_moran_i.csv,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/figures/class_level_disagreement_rates.png,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/figures/county_level_disagreement_rates.png,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/figures/s1s2_matched_test_confusion_matrix.png,True
+/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/docs/spatial_error_analysis_notes.md,True

@@ -1,0 +1,44 @@
+reference_class,pred_s1s2,n
+Maize,Pulses / field beans and peas,28
+Winter barley,Winter wheat,24
+Pulses / field beans and peas,Maize,22
+Winter wheat,Winter barley,19
+Potatoes,Beet (sugar beet / fodder beet),18
+Beet (sugar beet / fodder beet),Potatoes,18
+Potatoes,Pulses / field beans and peas,17
+Beet (sugar beet / fodder beet),Maize,16
+Spring barley,Maize,13
+Pulses / field beans and peas,Potatoes,12
+Maize,Potatoes,10
+Winter wheat,Spring barley,9
+Pulses / field beans and peas,Winter barley,9
+Oilseed rape,Pulses / field beans and peas,9
+Potatoes,Maize,9
+Pulses / field beans and peas,Beet (sugar beet / fodder beet),9
+Pulses / field beans and peas,Spring barley,8
+Winter wheat,Pulses / field beans and peas,8
+Winter barley,Spring barley,8
+Spring barley,Pulses / field beans and peas,7
+Spring barley,Winter wheat,7
+Maize,Spring barley,7
+Winter barley,Oilseed rape,6
+Oilseed rape,Winter barley,6
+Maize,Winter barley,6
+Beet (sugar beet / fodder beet),Pulses / field beans and peas,5
+Maize,Beet (sugar beet / fodder beet),5
+Pulses / field beans and peas,Oilseed rape,5
+Winter barley,Maize,5
+Maize,Oilseed rape,5
+Winter wheat,Maize,4
+Winter wheat,Oilseed rape,4
+Winter barley,Pulses / field beans and peas,4
+Spring barley,Winter barley,4
+Oilseed rape,Spring barley,3
+Pulses / field beans and peas,Winter wheat,3
+Potatoes,Oilseed rape,2
+Beet (sugar beet / fodder beet),Winter wheat,1
+Beet (sugar beet / fodder beet),Spring barley,1
+Potatoes,Winter barley,1
+Potatoes,Spring barley,1
+Oilseed rape,Beet (sugar beet / fodder beet),1
+Winter barley,Beet (sugar beet / fodder beet),1

@@ -1,0 +1,9 @@
+class_id,analysis_class,source_classes,decision
+1,Winter wheat,Winter wheat,main
+2,Winter barley,Winter barley,main
+3,Spring barley,Spring barley,main
+4,Beet (sugar beet / fodder beet),Beet (sugar beet / fodder beet); Beet,main
+5,Maize,Maize,main
+6,Oilseed rape,Oilseed rape; Winter Oilseed,main
+7,Potatoes,Potatoes; Potato,main
+8,Pulses / field beans and peas,Spring field beans; Winter field beans; Peas,aggregate_main
