@@ -41,6 +41,7 @@ Selected derived tables and figures are included to document the dissertation re
 
 ## Visualisation
 
-Interactive maps and result summaries are available at:
+Interactive maps and GEE app are available at:
 
+https://github.com/Levine-l/crop_map
 https://levine-l.github.io/crop_map/
