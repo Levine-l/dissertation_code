@@ -1,0 +1,2 @@
+method,sample_points_total,sample_points_with_ukceh_8class_label,coverage_rate,crome_ukceh_agreement_rate,benchmark_note
+sample_point_spatial_join,8001,6663,0.8327709036370454,0.885186852769023,"UKCEH Land Cover plus: Crops treated as a high-quality secondary benchmark / reference product, not absolute field-survey ground truth"
