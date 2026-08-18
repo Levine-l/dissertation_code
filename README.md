@@ -22,7 +22,7 @@ The numbered folders follow the main order of the analysis.
 
 ## Running the notebooks
 
-The notebooks were developed firstly in local, but later and primarily in Google Colab because of data storage.
+The notebooks were developed locally and in Google Colab. The data intensive stages were run primarily in Colab because the data were stored in Google Drive.
 
 Main Python packages include:
 
