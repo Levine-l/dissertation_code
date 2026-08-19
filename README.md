@@ -22,7 +22,9 @@ The numbered folders follow the main order of the analysis.
 
 ## Running the notebooks
 
-The notebooks were developed locally and in Google Colab. The data intensive stages were run primarily in Colab because the data were stored in Google Drive.
+The notebooks were developed locally and in Google Colab, so root paths may be slight differences between codes. The data intensive stages were run primarily in Colab because the data were stored in Google Drive.
+
+The Earth Engine require authentication and access to an Earth Engine project.
 
 Main Python packages include:
 
